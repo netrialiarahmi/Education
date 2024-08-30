@@ -260,3 +260,8 @@ Despite numerous policies aimed at improving the quality of education in Indones
 #### **Public Opinion**
 The majority of public opinion highlights Minister of Education Regulation No. 2 of 2024, which has led to an increase in tuition fees (UKT). Most of the public's comments are negative regarding this issue. Additionally, there are concerns about rising education costs, education policy management, and the improvement of education quality. The public hopes for systemic improvements within the Ministry of Education and Culture down to local education offices, and a review of policies perceived as detrimental and unbeneficial to the community.
 
+<p align="center">
+  <a href="https://www.figma.com/proto/nYk6qHHLoPlBl20ILy4SCT/Analisis-Pendidikan-di-Indonesia?page-id=0%3A1&node-id=23-683&node-type=CANVAS&viewport=2190%2C634%2C0.11&t=21QPt4KaVZ5kAWgB-1&scaling=contain&content-scaling=fixed" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-Now-brightgreen?style=for-the-badge">
+  </a>
+</p>
